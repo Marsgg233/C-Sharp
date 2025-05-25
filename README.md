@@ -1,2 +1,2 @@
 # C-Sharp
-Works for the second year
+Works for the second course
