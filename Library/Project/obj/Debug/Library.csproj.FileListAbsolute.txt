@@ -1,0 +1,10 @@
+D:\Viual Studio\Library\Library\bin\Debug\Library.exe.config
+D:\Viual Studio\Library\Library\bin\Debug\Library.exe
+D:\Viual Studio\Library\Library\bin\Debug\Library.pdb
+D:\Viual Studio\Library\Library\bin\Debug\Newtonsoft.Json.dll
+D:\Viual Studio\Library\Library\bin\Debug\Newtonsoft.Json.xml
+D:\Viual Studio\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\Viual Studio\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Viual Studio\Library\Library\obj\Debug\Library.csproj.Up2Date
+D:\Viual Studio\Library\Library\obj\Debug\Library.exe
+D:\Viual Studio\Library\Library\obj\Debug\Library.pdb
